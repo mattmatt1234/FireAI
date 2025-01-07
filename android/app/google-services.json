@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713273610010",
+    "project_id": "fireai-c6b57",
+    "storage_bucket": "fireai-c6b57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713273610010:android:04803ba18261a504ad66a3",
+        "android_client_info": {
+          "package_name": "com.example.fire_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5xjxLIi9FH0mdIQn3KtEJuTrLeZILkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
