@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class FitBuddyColorConstants {
+class FireAIColorConstants {
   static Color lPrimary = Colors.white;
   static Color lOnPrimary = Colors.black;
   static Color lSecondary = const Color(0xFFF2F2F2);
